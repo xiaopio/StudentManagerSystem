@@ -1,6 +1,5 @@
 package com.haust.studentmanagersystem;
 
-import java.util.Scanner;
 
 public class Student {
     private String id;
